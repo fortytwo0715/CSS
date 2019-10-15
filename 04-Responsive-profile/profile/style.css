@@ -46,10 +46,7 @@ h2 {
 p {
   margin: 15px 20px 40px 20px;
   font-size: 18px;
-}
-
-ul {
-  padding-left: 0px;
+  line-height: 1.6;
 }
 
 .container {
@@ -63,6 +60,12 @@ ul {
   margin: 0px 20px 20px 20px;
   box-shadow: 2px 0px 8px #B9B1B1;
   border-radius: 10px;
+}
+
+.card-white li {
+  list-style: none;
+  font-size: 18px;
+  line-height: 1.6;
 }
 
 .btn-red {

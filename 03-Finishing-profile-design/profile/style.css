@@ -1,0 +1,72 @@
+body {
+  background-color: #F5F7F8;
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+h1, h2 {
+  color: #EF476F;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+}
+
+h1 {
+  margin: 40px 0;
+}
+
+h2 {
+  margin: 20px 0 20px 0;
+}
+
+p {
+  margin: 15px 20px 40px 20px;
+  font-size: 18px;
+}
+
+ul {
+  padding-left: 0px;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+  padding: 0px 30px 20px 30px;
+}
+
+.card-white {
+  background-color: white;
+  padding: 10px 20px 40px 20px;
+  margin: 0px 20px 20px 20px;
+  box-shadow: 2px 0px 8px #B9B1B1;
+  border-radius: 10px;
+}
+
+.btn-red {
+  background-color: #DB2B39;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.btn-red:hover {
+  background-color: #5E3023;
+}
+
+.inline-list li {
+  display: inline-block;
+  list-style: none;
+  padding: 0px 10px;
+}
+
+#profile-pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+#social a {
+  font-size: 30px;
+  color: #2C1107;
+}
+
